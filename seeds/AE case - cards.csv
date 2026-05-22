@@ -1,0 +1,674 @@
+CARD_ID,END_DATE,START_DATE,CARD_STATUS,CUSTOMER,ACCOUNT_ID
+d2123c66ff,2024-11-27,2024-11-19,Card OK,The Office,e5d0784135
+319532a445,2024-11-14,2024-11-14,Card Blocked,Breaking Bad,ebf4de9e54
+d71480e9ed,2024-11-06,2024-11-03,Card OK,Game of Thrones,38782b001f
+759fe9a609,2025-01-22,2025-01-15,Card OK,Back to the Future,b5419c25f9
+7406094968,2024-11-15,2024-11-15,Card OK,Breaking Bad,d136b709ef
+bafa3a6375,2025-01-18,2025-01-11,Card OK,White Lotus,b2bcd71144
+51e4e596dd,2100-01-03,2025-02-16,Card OK,White Lotus,2e660e637d
+8f932332e9,2024-12-20,2024-12-19,Card OK,Modern Family,99ecf8930b
+e65d3f481c,2024-12-29,2024-12-29,Card No Renewal,Back to the Future,7a32dd2bf0
+73f77b647c,2025-01-11,2025-01-09,Card OK,Friends,3a68589903
+9ab6436270,2024-12-18,2024-12-15,Card OK,Lord of the Rings,1387ba9139
+e8aa68cd07,2025-01-08,2025-01-04,Card OK,Back to the Future,88b97fad18
+45812b1dce,2024-12-18,2024-12-16,Card OK,The Office,f15a4c64d5
+8b3bb196da,2024-11-25,2024-11-25,Card OK,Game of Thrones,ce3b66c461
+dda8cd8543,2024-11-10,2024-11-10,Card OK,Game of Thrones,02e797c1b7
+a96e8f9106,2024-11-10,2024-11-06,Card OK,Back to the Future,6cec320f20
+a6e51466b0,2024-12-23,2024-12-21,Card No Renewal,Star Wars,204c34a7ec
+c3b2f8e698,2024-12-18,2024-12-07,Card OK,Breaking Bad,39636f5d64
+cda96c5be0,2024-12-23,2024-12-21,Card No Renewal,White Lotus,c528bf867d
+226004759c,2024-12-27,2024-12-24,Card OK,Modern Family,0f1a1b7af0
+319532a445,2024-12-22,2024-12-21,Card Blocked,Breaking Bad,ebf4de9e54
+5ed2ff0113,2025-01-01,2024-12-28,Card No Renewal,Friends,0f1a1b7af0
+3c2206ff9b,2024-12-18,2024-12-17,Card OK,Breaking Bad,82679f0cf3
+bb671c4b31,2100-01-03,2024-12-24,Card OK,Breaking Bad,e58103c65c
+6a052a6005,2100-01-03,2025-02-17,Card Blocked,Modern Family,041963483c
+73f77b647c,2025-01-08,2025-01-08,Card Blocked,Friends,3a68589903
+98490993cd,2024-11-30,2024-11-30,Card OK,White Lotus,6caf2dfa73
+6b0b7fee3f,2024-11-27,2024-11-23,Card OK,White Lotus,c528bf867d
+226004759c,2025-01-09,2025-01-07,Card OK,Modern Family,0f1a1b7af0
+c825baa23d,2024-12-10,2024-12-07,Card OK,Modern Family,e36712cc9b
+d2123c66ff,2024-12-01,2024-11-28,Card OK,The Office,e5d0784135
+13c2b03bf9,2100-01-03,2024-12-21,Card No Renewal,Game of Thrones,19e7161faf
+e0bb6952a8,2100-01-03,2024-12-21,Card No Renewal,White Lotus,de31c6b9c9
+76ade43d6a,2100-01-03,2025-02-18,Card Blocked,Breaking Bad,e7ac664a69
+c825baa23d,2024-12-06,2024-12-06,Card OK,Modern Family,e36712cc9b
+5472b6dbb6,2024-11-26,2024-11-21,Card No Renewal,Back to the Future,d9928cebbd
+211662d0ac,2024-12-20,2024-12-19,Card OK,Modern Family,e04828a825
+646e40308c,2024-12-23,2024-12-21,Card No Renewal,Hogwarts,b0334b0333
+b608ff1c4e,2024-11-23,2024-11-22,Card OK,White Lotus,1ffcf2955f
+bb671c4b31,2024-12-18,2024-12-13,Card OK,Breaking Bad,e58103c65c
+13c2b03bf9,2024-11-14,2024-11-07,Card OK,Game of Thrones,19e7161faf
+0fc71eca25,2024-11-22,2024-11-22,Card OK,Modern Family,a75b5145ea
+e20d0fa98e,2025-01-25,2025-01-21,Card OK,White Lotus,d9928cebbd
+73f77b647c,2025-01-07,2025-01-04,Card OK,Friends,3a68589903
+5472b6dbb6,2100-01-03,2025-02-18,Card No Renewal,Back to the Future,d9928cebbd
+76792d1e47,2024-12-20,2024-12-16,Card OK,Lord of the Rings,26b8390ed9
+63d50bd63c,2024-12-20,2024-12-13,Card OK,Lord of the Rings,d14a9df8b9
+e20d0fa98e,2100-01-03,2025-02-18,Card OK,White Lotus,d9928cebbd
+e20d0fa98e,2024-11-05,2024-11-03,Card OK,White Lotus,d9928cebbd
+211662d0ac,2024-12-18,2024-11-10,Card OK,Modern Family,e04828a825
+c859e3878c,2024-12-14,2024-12-12,Suspected Fraud,White Lotus,76da20da14
+a6e51466b0,2024-12-20,2024-12-15,Card OK,Star Wars,204c34a7ec
+cb378c9a86,2024-12-18,2024-12-06,Card OK,Breaking Bad,b45f21ea3d
+46971e146d,2025-01-07,2024-12-29,Card Blocked,Hogwarts,f6b78b2250
+bedeb84746,2024-12-24,2024-12-24,Card OK,Game of Thrones,8f0b2d98ba
+63d50bd63c,2024-12-12,2024-12-11,Card OK,Lord of the Rings,d14a9df8b9
+cb378c9a86,2024-12-05,2024-12-05,Card OK,Breaking Bad,b45f21ea3d
+edd5b288d8,2024-11-17,2024-11-15,Card OK,The Office,8dc0f4f5e8
+6b0b7fee3f,2100-01-03,2024-12-21,Card No Renewal,White Lotus,c528bf867d
+d1ee26196c,2024-12-15,2024-12-04,Card OK,Game of Thrones,26b8390ed9
+edd5b288d8,2024-12-18,2024-11-29,Card OK,The Office,8dc0f4f5e8
+226004759c,2025-01-06,2025-01-02,Card OK,Modern Family,0f1a1b7af0
+5ed2ff0113,2025-01-24,2025-01-22,Card No Renewal,Friends,0f1a1b7af0
+3f8c0892be,2025-01-03,2024-12-24,Card OK,Back to the Future,60fd8f1993
+3c2206ff9b,2024-11-28,2024-11-28,Card OK,Breaking Bad,82679f0cf3
+d47a8ad1cc,2024-12-23,2024-12-22,Card No Renewal,Back to the Future,7a32dd2bf0
+6d2b2ecc3e,2024-12-11,2024-12-06,Card OK,Modern Family,e58103c65c
+e8aa68cd07,2025-01-12,2025-01-09,Card OK,Back to the Future,88b97fad18
+cb378c9a86,2024-12-20,2024-12-19,Card OK,Breaking Bad,b45f21ea3d
+dc6de15ab7,2024-12-01,2024-11-14,Card OK,Hogwarts,724b411fec
+8509ebbd74,2100-01-03,2025-01-22,Card Closed,Lord of the Rings,8a98cfb395
+bedeb84746,2024-12-21,2024-12-21,Card No Renewal,Game of Thrones,8f0b2d98ba
+45812b1dce,2100-01-03,2024-12-22,Suspected Fraud,The Office,f15a4c64d5
+8509ebbd74,2024-12-22,2024-12-17,Card OK,Lord of the Rings,8a98cfb395
+c859e3878c,2025-01-14,2024-12-15,Card No Renewal,White Lotus,76da20da14
+89e6f7fd97,2025-01-02,2024-12-03,Card Blocked,Friends,7764e7ef14
+319532a445,2025-01-20,2024-12-23,Card OK,Breaking Bad,ebf4de9e54
+5ed2ff0113,2025-01-14,2025-01-10,Card No Renewal,Friends,0f1a1b7af0
+e20d0fa98e,2024-12-23,2024-12-22,Card No Renewal,White Lotus,d9928cebbd
+98490993cd,2024-12-23,2024-12-02,Card No Renewal,White Lotus,6caf2dfa73
+76ade43d6a,2024-12-09,2024-12-01,Card Blocked,Breaking Bad,e7ac664a69
+e113a6ff0f,2024-12-20,2024-12-19,Card OK,The Office,587b659087
+050afcc8fc,2025-01-22,2025-01-20,Card Blocked,Hogwarts,c19d0b3074
+dc6de15ab7,2024-11-13,2024-11-12,Card OK,Hogwarts,724b411fec
+0803d4799a,2024-12-20,2024-12-19,Card OK,Game of Thrones,2b02e33c9f
+3f8c0892be,2025-01-17,2025-01-17,Card Blocked,Back to the Future,60fd8f1993
+197a486ae2,2100-01-03,2025-01-03,Card OK,Hogwarts,df8818db30
+7b0057a344,2024-12-20,2024-11-18,Card OK,White Lotus,be9d251adb
+cda96c5be0,2024-12-20,2024-12-19,Card OK,White Lotus,c528bf867d
+d47a8ad1cc,2024-12-28,2024-12-28,Card OK,Back to the Future,7a32dd2bf0
+e65d3f481c,2100-01-03,2025-01-10,Card No Renewal,Back to the Future,7a32dd2bf0
+5472b6dbb6,2024-12-20,2024-11-27,Card No Renewal,Back to the Future,d9928cebbd
+c46f6dc06d,2024-12-20,2024-12-19,Card OK,The Office,e64d362ad9
+055dc341e6,2024-12-14,2024-12-08,Card OK,The Office,f15a4c64d5
+319532a445,2025-01-21,2025-01-21,Card Blocked,Breaking Bad,ebf4de9e54
+b58dd6b051,2024-11-21,2024-11-21,Card OK,Game of Thrones,ce3b66c461
+e20d0fa98e,2025-01-20,2025-01-05,Card OK,White Lotus,d9928cebbd
+129b7371cf,2024-12-20,2024-12-19,Card OK,The Office,e04828a825
+9ccfd53fb2,2025-01-09,2025-01-01,Card No Renewal,Modern Family,7a32dd2bf0
+d47a8ad1cc,2024-12-27,2024-12-24,Card OK,Back to the Future,7a32dd2bf0
+03170865d0,2025-02-02,2025-02-01,Card OK,Modern Family,5e4a728423
+3d734f6715,2025-01-24,2025-01-07,Card Blocked,Hogwarts,64b1c20848
+0aa817f5fe,2025-01-25,2024-12-26,Card Blocked,Game of Thrones,513aac1ad3
+778c2de8b3,2100-01-03,2025-01-11,Card OK,Modern Family,136bcb2ffd
+9d2e487455,2025-01-21,2025-01-02,Card Blocked,Modern Family,6f8844b654
+b9f46c0ac5,2025-01-16,2025-01-10,Card Blocked,Game of Thrones,1507ae72f4
+13b2c686f2,2024-12-25,2024-12-24,Card OK,White Lotus,ac87b05383
+d1ee26196c,2024-12-20,2024-12-16,Card OK,Game of Thrones,26b8390ed9
+13c2b03bf9,2024-12-18,2024-11-27,Card OK,Game of Thrones,19e7161faf
+129b7371cf,2100-01-03,2025-01-18,Card OK,The Office,e04828a825
+9d2e487455,2025-01-01,2024-12-28,Card No Renewal,Modern Family,6f8844b654
+ccfce3f2c6,2024-11-10,2024-11-06,Card OK,Breaking Bad,ba19ad0b31
+d62cf0f11f,2024-12-18,2024-11-30,Card OK,Breaking Bad,680e20451d
+5472b6dbb6,2024-11-11,2024-11-09,Card No Renewal,Back to the Future,d9928cebbd
+4bba78eb8e,2024-12-20,2024-12-19,Card OK,Star Wars,00c99a8d11
+226004759c,2025-01-21,2025-01-20,Card OK,Modern Family,0f1a1b7af0
+5472b6dbb6,2024-11-08,2024-11-06,Card No Renewal,Back to the Future,d9928cebbd
+45812b1dce,2024-12-20,2024-12-19,Card OK,The Office,f15a4c64d5
+6defff5c19,2025-01-06,2024-12-27,Card OK,Hogwarts,cf629af9be
+9844aa3e67,2024-12-23,2024-12-21,Card No Renewal,Back to the Future,e64d362ad9
+dc6de15ab7,2024-12-20,2024-12-19,Card OK,Hogwarts,724b411fec
+197a486ae2,2024-12-10,2024-12-07,Card Blocked,Hogwarts,df8818db30
+d1ee26196c,2024-12-23,2024-12-21,Card No Renewal,Game of Thrones,26b8390ed9
+6defff5c19,2024-12-20,2024-12-18,Card OK,Hogwarts,cf629af9be
+c7c823bbb3,2100-01-03,2024-12-24,Card OK,Game of Thrones,19e7161faf
+df348273b5,2024-11-30,2024-11-26,Card OK,White Lotus,a32859c28e
+7406094968,2024-12-18,2024-11-16,Card OK,Breaking Bad,d136b709ef
+dc6de15ab7,2024-12-18,2024-12-12,Card OK,Hogwarts,724b411fec
+a60e57da18,2024-11-27,2024-11-22,Card OK,Breaking Bad,82679f0cf3
+63a9997c87,2024-12-07,2024-11-24,Suspected Fraud,Hogwarts,40adef5598
+3c2206ff9b,2024-11-27,2024-11-23,Card OK,Breaking Bad,82679f0cf3
+bafa3a6375,2100-01-03,2025-01-19,Card Blocked,White Lotus,b2bcd71144
+13b2c686f2,2024-11-12,2024-11-07,Card OK,White Lotus,ac87b05383
+319532a445,2025-01-31,2025-01-30,Card Blocked,Breaking Bad,ebf4de9e54
+cb378c9a86,2024-12-23,2024-12-21,Card No Renewal,Breaking Bad,b45f21ea3d
+197a486ae2,2024-12-30,2024-12-11,Card OK,Hogwarts,df8818db30
+6defff5c19,2024-12-23,2024-12-21,Card No Renewal,Hogwarts,cf629af9be
+7406094968,2100-01-03,2024-12-21,Card No Renewal,Breaking Bad,d136b709ef
+6a052a6005,2024-12-03,2024-12-01,Card Blocked,Modern Family,041963483c
+319532a445,2100-01-03,2025-02-01,Card OK,Breaking Bad,ebf4de9e54
+e20d0fa98e,2024-11-26,2024-11-21,Card OK,White Lotus,d9928cebbd
+9ccfd53fb2,2024-12-21,2024-12-19,Card No Renewal,Modern Family,7a32dd2bf0
+6a285b6d43,2024-12-18,2024-12-12,Card OK,Hogwarts,724b411fec
+e20d0fa98e,2024-11-20,2024-11-12,Card OK,White Lotus,d9928cebbd
+646e40308c,2024-12-20,2024-12-19,Card OK,Hogwarts,b0334b0333
+b58dd6b051,2100-01-03,2025-02-03,Card No Renewal,Game of Thrones,ce3b66c461
+a0185bc6a6,2024-11-23,2024-11-23,Card OK,Modern Family,99ecf8930b
+b9f46c0ac5,2024-11-14,2024-11-14,Card OK,Game of Thrones,1507ae72f4
+0aa817f5fe,2025-01-26,2025-01-26,Card Closed,Game of Thrones,513aac1ad3
+6a285b6d43,2024-12-01,2024-11-14,Card OK,Hogwarts,724b411fec
+76ade43d6a,2024-11-18,2024-11-17,Card Blocked,Breaking Bad,e7ac664a69
+d71480e9ed,2024-12-23,2024-12-21,Card No Renewal,Game of Thrones,38782b001f
+d7b070b052,2024-12-24,2024-12-04,Suspected Fraud,Hogwarts,d05d568c21
+c825baa23d,2024-12-01,2024-11-30,Card OK,Modern Family,e36712cc9b
+6abc3c7f30,2024-11-17,2024-11-17,Card OK,Lord of the Rings,b2786938a6
+6d2b2ecc3e,2024-12-18,2024-12-13,Card OK,Modern Family,e58103c65c
+dc6de15ab7,2024-12-11,2024-12-02,Card OK,Hogwarts,724b411fec
+a0185bc6a6,2024-12-18,2024-11-24,Card OK,Modern Family,99ecf8930b
+63a9997c87,2024-11-23,2024-11-07,Card OK,Hogwarts,40adef5598
+b608ff1c4e,2100-01-03,2025-02-11,Suspected Fraud,White Lotus,1ffcf2955f
+8b70ec68a3,2024-11-30,2024-11-28,Card Blocked,Game of Thrones,a5bde9a34f
+7406094968,2024-11-14,2024-11-09,Card OK,Breaking Bad,d136b709ef
+a60e57da18,2100-01-03,2025-01-03,Card OK,Breaking Bad,82679f0cf3
+be98281660,2024-11-26,2024-11-26,Card OK,Back to the Future,c7391abdd2
+6a285b6d43,2024-11-13,2024-11-12,Card OK,Hogwarts,724b411fec
+73f77b647c,2024-12-30,2024-12-24,Card OK,Friends,3a68589903
+5e9726d1c3,2024-11-12,2024-11-12,Card No Renewal,Hogwarts,81314e3e17
+d47a8ad1cc,2024-12-20,2024-12-19,Card OK,Back to the Future,7a32dd2bf0
+d65cbb036c,2025-01-08,2025-01-08,Card Blocked,White Lotus,f649458d87
+322686c91d,2024-12-23,2024-12-21,Card No Renewal,Hogwarts,00bccef695
+a6e51466b0,2024-12-13,2024-12-02,Card OK,Star Wars,204c34a7ec
+778c2de8b3,2025-01-10,2025-01-10,Card OK,Modern Family,136bcb2ffd
+45812b1dce,2024-12-21,2024-12-21,Card No Renewal,The Office,f15a4c64d5
+89e6f7fd97,2100-01-03,2025-01-04,Card Closed,Friends,7764e7ef14
+a6e51466b0,2100-01-03,2024-12-24,Card OK,Star Wars,204c34a7ec
+c859e3878c,2100-01-03,2025-01-16,Card Closed,White Lotus,76da20da14
+129b7371cf,2025-01-17,2025-01-15,Card OK,The Office,e04828a825
+e65d3f481c,2024-12-21,2024-12-19,Card No Renewal,Back to the Future,7a32dd2bf0
+dda8cd8543,2024-12-18,2024-11-14,Card OK,Game of Thrones,02e797c1b7
+6d2b2ecc3e,2100-01-03,2024-12-21,Card No Renewal,Modern Family,e58103c65c
+050afcc8fc,2024-12-14,2024-12-14,Card OK,Hogwarts,c19d0b3074
+c825baa23d,2025-01-03,2024-12-24,Card OK,Modern Family,e36712cc9b
+0803d4799a,2100-01-03,2024-12-21,Card No Renewal,Game of Thrones,2b02e33c9f
+76ade43d6a,2025-01-28,2024-12-24,Card OK,Breaking Bad,e7ac664a69
+c7c823bbb3,2024-12-18,2024-11-27,Card OK,Game of Thrones,19e7161faf
+e362343673,2024-12-10,2024-12-08,Card OK,Breaking Bad,728de95698
+c46f6dc06d,2024-12-24,2024-12-24,Card No Renewal,The Office,e64d362ad9
+5ed2ff0113,2025-01-09,2025-01-07,Card No Renewal,Friends,0f1a1b7af0
+226004759c,2024-12-19,2024-12-17,Card OK,Modern Family,0f1a1b7af0
+bb671c4b31,2024-12-04,2024-12-04,Card OK,Breaking Bad,e58103c65c
+d65cbb036c,2024-12-23,2024-12-21,Card No Renewal,White Lotus,f649458d87
+f34f4c4b9d,2100-01-03,2025-01-18,Card OK,Friends,2e5ddad1a4
+3041910888,2024-11-17,2024-11-16,Card No Renewal,Modern Family,00bccef695
+db78b8c83e,2024-12-20,2024-12-19,Card OK,Friends,94227ef72f
+d62cf0f11f,2024-12-20,2024-12-19,Card OK,Breaking Bad,680e20451d
+055dc341e6,2024-12-21,2024-12-21,Card No Renewal,The Office,f15a4c64d5
+be98281660,2024-12-07,2024-12-03,Card OK,Back to the Future,c7391abdd2
+8b3bb196da,2025-02-02,2025-02-01,Card OK,Game of Thrones,ce3b66c461
+a60e57da18,2024-12-20,2024-12-19,Card OK,Breaking Bad,82679f0cf3
+8b3bb196da,2024-11-24,2024-11-22,Card OK,Game of Thrones,ce3b66c461
+050afcc8fc,2025-01-01,2024-12-24,Card OK,Hogwarts,c19d0b3074
+be98281660,2024-12-02,2024-11-27,Card OK,Back to the Future,c7391abdd2
+e65d3f481c,2025-01-09,2025-01-01,Card No Renewal,Back to the Future,7a32dd2bf0
+759fe9a609,2025-01-14,2025-01-10,Card OK,Back to the Future,b5419c25f9
+e65d3f481c,2024-12-27,2024-12-22,Card No Renewal,Back to the Future,7a32dd2bf0
+bedeb84746,2025-01-20,2024-12-25,Card OK,Game of Thrones,8f0b2d98ba
+6a285b6d43,2100-01-03,2025-01-01,Card No Renewal,Hogwarts,724b411fec
+e113a6ff0f,2025-01-10,2025-01-10,Card Blocked,The Office,587b659087
+b608ff1c4e,2024-11-29,2024-11-28,Card OK,White Lotus,1ffcf2955f
+2d271cef7e,2024-12-10,2024-12-07,Card Blocked,Back to the Future,7642ff66ab
+3d734f6715,2024-12-18,2024-12-17,Card No Renewal,Hogwarts,64b1c20848
+d47a8ad1cc,2024-12-30,2024-12-30,Card OK,Back to the Future,7a32dd2bf0
+13b2c686f2,2024-12-18,2024-11-13,Card OK,White Lotus,ac87b05383
+d65cbb036c,2100-01-03,2025-01-09,Card Closed Due To Fraud,White Lotus,f649458d87
+c825baa23d,2024-12-23,2024-12-21,Card No Renewal,Modern Family,e36712cc9b
+9d2e487455,2100-01-03,2025-02-18,Card Blocked,Modern Family,6f8844b654
+050afcc8fc,2024-12-21,2024-12-18,Card Blocked,Hogwarts,c19d0b3074
+8f932332e9,2100-01-03,2024-12-24,Card OK,Modern Family,99ecf8930b
+e362343673,2024-12-18,2024-12-11,Card OK,Breaking Bad,728de95698
+c46f6dc06d,2100-01-03,2024-12-25,Card No Renewal,The Office,e64d362ad9
+3c413362b9,2100-01-03,2025-01-23,Card Blocked,The Office,e2654bcdb5
+76ade43d6a,2024-12-23,2024-12-21,Card No Renewal,Breaking Bad,e7ac664a69
+db78b8c83e,2024-12-23,2024-12-21,Card No Renewal,Friends,94227ef72f
+9ab6436270,2024-12-14,2024-12-13,Card Blocked,Lord of the Rings,1387ba9139
+5ed2ff0113,2025-01-21,2025-01-20,Card No Renewal,Friends,0f1a1b7af0
+8b70ec68a3,2024-11-15,2024-11-10,Card Blocked,Game of Thrones,a5bde9a34f
+3d734f6715,2100-01-03,2025-01-25,Card No Renewal,Hogwarts,64b1c20848
+bb671c4b31,2024-12-11,2024-12-05,Card OK,Breaking Bad,e58103c65c
+e20d0fa98e,2025-01-04,2024-12-30,Card OK,White Lotus,d9928cebbd
+6b0b7fee3f,2024-12-17,2024-12-14,Card OK,White Lotus,c528bf867d
+8b70ec68a3,2024-11-27,2024-11-26,Card OK,Game of Thrones,a5bde9a34f
+8b70ec68a3,2024-12-06,2024-12-01,Card OK,Game of Thrones,a5bde9a34f
+bb671c4b31,2024-12-12,2024-12-12,Card OK,Breaking Bad,e58103c65c
+050afcc8fc,2025-01-19,2025-01-19,Card OK,Hogwarts,c19d0b3074
+89e6f7fd97,2024-12-02,2024-11-29,Card OK,Friends,7764e7ef14
+a60e57da18,2024-12-16,2024-11-29,Card OK,Breaking Bad,82679f0cf3
+d71480e9ed,2100-01-03,2024-12-24,Card OK,Game of Thrones,38782b001f
+226004759c,2025-01-15,2025-01-15,Card OK,Modern Family,0f1a1b7af0
+a60e57da18,2024-12-18,2024-12-17,Card OK,Breaking Bad,82679f0cf3
+4bba78eb8e,2100-01-03,2024-12-24,Card OK,Star Wars,00c99a8d11
+a0185bc6a6,2100-01-03,2024-12-21,Card No Renewal,Modern Family,99ecf8930b
+6a285b6d43,2024-12-11,2024-12-02,Card OK,Hogwarts,724b411fec
+226004759c,2100-01-03,2025-02-21,Card OK,Modern Family,0f1a1b7af0
+319532a445,2024-12-20,2024-11-15,Card OK,Breaking Bad,ebf4de9e54
+d47a8ad1cc,2100-01-03,2025-01-10,Card OK,Back to the Future,7a32dd2bf0
+5ed2ff0113,2024-12-27,2024-12-20,Card No Renewal,Friends,0f1a1b7af0
+e8aa68cd07,2025-01-03,2024-12-24,Card OK,Back to the Future,88b97fad18
+b58dd6b051,2024-11-20,2024-11-18,Card OK,Game of Thrones,ce3b66c461
+c825baa23d,2100-01-03,2025-02-16,Card OK,Modern Family,e36712cc9b
+055dc341e6,2100-01-03,2024-12-22,Suspected Fraud,The Office,f15a4c64d5
+759fe9a609,2024-12-23,2024-12-21,Card No Renewal,Back to the Future,b5419c25f9
+2ad69a121a,2100-01-03,2024-12-24,Card OK,White Lotus,680e20451d
+2d271cef7e,2100-01-03,2025-02-22,Card OK,Back to the Future,7642ff66ab
+3c2206ff9b,2100-01-03,2025-01-03,Card No Renewal,Breaking Bad,82679f0cf3
+c46f6dc06d,2024-12-23,2024-12-21,Card No Renewal,The Office,e64d362ad9
+f34f4c4b9d,2025-01-15,2024-11-23,Card OK,Friends,2e5ddad1a4
+8f932332e9,2024-11-23,2024-11-23,Card OK,Modern Family,99ecf8930b
+2ad69a121a,2024-12-20,2024-12-19,Card OK,White Lotus,680e20451d
+e8aa68cd07,2100-01-03,2025-02-16,Card OK,Back to the Future,88b97fad18
+c825baa23d,2025-01-29,2025-01-17,Card OK,Modern Family,e36712cc9b
+129b7371cf,2024-11-09,2024-11-09,Card OK,The Office,e04828a825
+226004759c,2025-02-02,2025-02-02,Card OK,Modern Family,0f1a1b7af0
+0dbd29aa50,2100-01-03,2025-01-29,Card Blocked,Modern Family,f6b78b2250
+dda8cd8543,2024-12-20,2024-12-19,Card OK,Game of Thrones,02e797c1b7
+73f77b647c,2024-12-13,2024-12-12,Card OK,Friends,3a68589903
+8b70ec68a3,2100-01-03,2024-12-12,Card Closed,Game of Thrones,a5bde9a34f
+2ad69a121a,2024-11-27,2024-11-25,Card OK,White Lotus,680e20451d
+211662d0ac,2100-01-03,2025-01-18,Card No Renewal,Modern Family,e04828a825
+9d2e487455,2024-11-19,2024-11-05,Card No Renewal,Modern Family,6f8844b654
+d71480e9ed,2024-12-18,2024-11-08,Card OK,Game of Thrones,38782b001f
+2d271cef7e,2025-01-21,2025-01-19,Card Blocked,Back to the Future,7642ff66ab
+d1ee26196c,2100-01-03,2025-01-16,Card OK,Game of Thrones,26b8390ed9
+759fe9a609,2024-12-27,2024-12-26,Card OK,Back to the Future,b5419c25f9
+b9f46c0ac5,2025-01-09,2024-11-17,Card OK,Game of Thrones,1507ae72f4
+8509ebbd74,2025-01-21,2024-12-23,Card Blocked,Lord of the Rings,8a98cfb395
+5ed2ff0113,2025-01-06,2025-01-02,Card No Renewal,Friends,0f1a1b7af0
+759fe9a609,2025-01-09,2024-12-28,Card OK,Back to the Future,b5419c25f9
+5ed2ff0113,2025-02-02,2025-02-02,Card No Renewal,Friends,0f1a1b7af0
+cda96c5be0,2024-11-27,2024-11-22,Card OK,White Lotus,c528bf867d
+5e9726d1c3,2024-12-03,2024-11-29,Card No Renewal,Hogwarts,81314e3e17
+98490993cd,2025-01-02,2024-12-24,Card OK,White Lotus,6caf2dfa73
+c825baa23d,2024-12-05,2024-12-02,Card OK,Modern Family,e36712cc9b
+df348273b5,2024-12-23,2024-12-21,Card No Renewal,White Lotus,a32859c28e
+5472b6dbb6,2024-12-29,2024-12-22,Card No Renewal,Back to the Future,d9928cebbd
+9844aa3e67,2024-12-24,2024-12-24,Card OK,Back to the Future,e64d362ad9
+9ccfd53fb2,2024-12-29,2024-12-29,Card No Renewal,Modern Family,7a32dd2bf0
+3f8c0892be,2025-01-16,2025-01-04,Card OK,Back to the Future,60fd8f1993
+d2123c66ff,2025-01-07,2024-12-24,Card OK,The Office,e5d0784135
+dec5ab5ac4,2024-12-18,2024-12-09,Card OK,White Lotus,d88ebcfdae
+a96e8f9106,2024-12-20,2024-11-18,Card OK,Back to the Future,6cec320f20
+5472b6dbb6,2024-11-20,2024-11-12,Card No Renewal,Back to the Future,d9928cebbd
+ccfce3f2c6,2100-01-03,2025-01-01,Card OK,Breaking Bad,ba19ad0b31
+df348273b5,2025-01-15,2024-12-24,Card OK,White Lotus,a32859c28e
+3041910888,2100-01-03,2024-12-19,Card No Renewal,Modern Family,00bccef695
+d7b070b052,2100-01-03,2025-02-16,Card OK,Hogwarts,d05d568c21
+be98281660,2024-12-20,2024-12-19,Card OK,Back to the Future,c7391abdd2
+5472b6dbb6,2024-11-05,2024-11-03,Card No Renewal,Back to the Future,d9928cebbd
+3c413362b9,2024-12-01,2024-11-10,Card OK,The Office,e2654bcdb5
+6defff5c19,2024-12-26,2024-12-24,Card OK,Hogwarts,cf629af9be
+6a285b6d43,2024-12-31,2024-12-21,Card No Renewal,Hogwarts,724b411fec
+ccfce3f2c6,2024-12-20,2024-11-27,Card OK,Breaking Bad,ba19ad0b31
+3041910888,2024-12-18,2024-11-18,Card No Renewal,Modern Family,00bccef695
+cb378c9a86,2100-01-03,2024-12-24,Card OK,Breaking Bad,b45f21ea3d
+d1ee26196c,2024-12-03,2024-11-30,Card OK,Game of Thrones,26b8390ed9
+ccfce3f2c6,2024-12-30,2024-12-24,Card OK,Breaking Bad,ba19ad0b31
+5472b6dbb6,2025-01-04,2024-12-30,Card No Renewal,Back to the Future,d9928cebbd
+e65d3f481c,2024-12-28,2024-12-28,Card No Renewal,Back to the Future,7a32dd2bf0
+a0185bc6a6,2024-11-20,2024-11-20,Card OK,Modern Family,99ecf8930b
+226004759c,2025-01-24,2025-01-22,Card OK,Modern Family,0f1a1b7af0
+4bba78eb8e,2024-12-06,2024-11-06,Card OK,Star Wars,00c99a8d11
+6abc3c7f30,2024-12-04,2024-12-04,Card OK,Lord of the Rings,b2786938a6
+63a9997c87,2024-12-14,2024-12-08,Card Blocked,Hogwarts,40adef5598
+9ab6436270,2024-12-05,2024-12-05,Card OK,Lord of the Rings,1387ba9139
+dec5ab5ac4,2024-12-20,2024-12-19,Card OK,White Lotus,d88ebcfdae
+6a052a6005,2024-12-20,2024-12-04,Card OK,Modern Family,041963483c
+13b2c686f2,2024-12-23,2024-12-21,Card No Renewal,White Lotus,ac87b05383
+e113a6ff0f,2025-01-09,2024-12-21,Card No Renewal,The Office,587b659087
+dec5ab5ac4,2024-12-08,2024-12-05,Card OK,White Lotus,d88ebcfdae
+9ccfd53fb2,2024-12-31,2024-12-31,Card No Renewal,Modern Family,7a32dd2bf0
+9844aa3e67,2024-11-20,2024-11-18,Card OK,Back to the Future,e64d362ad9
+dec5ab5ac4,2100-01-03,2025-02-09,Card OK,White Lotus,d88ebcfdae
+5e9726d1c3,2024-11-28,2024-11-27,Card No Renewal,Hogwarts,81314e3e17
+d65cbb036c,2025-01-07,2024-12-24,Card OK,White Lotus,f649458d87
+8b3bb196da,2025-01-31,2024-12-24,Card OK,Game of Thrones,ce3b66c461
+76ade43d6a,2024-12-20,2024-12-10,Card OK,Breaking Bad,e7ac664a69
+322686c91d,2024-11-08,2024-11-05,Card OK,Hogwarts,00bccef695
+e20d0fa98e,2024-12-21,2024-12-21,Card No Renewal,White Lotus,d9928cebbd
+b58dd6b051,2024-12-20,2024-11-26,Card OK,Game of Thrones,ce3b66c461
+6b0b7fee3f,2024-12-07,2024-11-28,Card OK,White Lotus,c528bf867d
+6d2b2ecc3e,2024-12-12,2024-12-12,Card OK,Modern Family,e58103c65c
+b58dd6b051,2025-01-31,2024-12-21,Card No Renewal,Game of Thrones,ce3b66c461
+9d2e487455,2025-01-27,2025-01-22,Card No Renewal,Modern Family,6f8844b654
+6b0b7fee3f,2024-12-18,2024-12-18,Card OK,White Lotus,c528bf867d
+d62cf0f11f,2024-11-27,2024-11-25,Card OK,Breaking Bad,680e20451d
+a96e8f9106,2024-11-17,2024-11-16,Card OK,Back to the Future,6cec320f20
+13c2b03bf9,2024-12-20,2024-12-19,Card OK,Game of Thrones,19e7161faf
+edd5b288d8,2024-11-28,2024-11-18,Card OK,The Office,8dc0f4f5e8
+e362343673,2024-12-07,2024-11-29,Card OK,Breaking Bad,728de95698
+0aa817f5fe,2024-12-20,2024-12-19,Card OK,Game of Thrones,513aac1ad3
+bafa3a6375,2024-12-23,2024-12-21,Card No Renewal,White Lotus,b2bcd71144
+bedeb84746,2024-12-23,2024-12-22,Card No Renewal,Game of Thrones,8f0b2d98ba
+211662d0ac,2025-01-17,2025-01-15,Card No Renewal,Modern Family,e04828a825
+0aa817f5fe,2024-12-23,2024-12-21,Card No Renewal,Game of Thrones,513aac1ad3
+5e9726d1c3,2024-11-17,2024-11-16,Card No Renewal,Hogwarts,81314e3e17
+f34f4c4b9d,2024-11-22,2024-11-17,Card OK,Friends,2e5ddad1a4
+e20d0fa98e,2024-11-08,2024-11-06,Card OK,White Lotus,d9928cebbd
+b58dd6b051,2024-11-25,2024-11-25,Card OK,Game of Thrones,ce3b66c461
+a96e8f9106,2024-12-23,2024-12-21,Card No Renewal,Back to the Future,6cec320f20
+51e4e596dd,2024-12-06,2024-12-05,Card OK,White Lotus,2e660e637d
+df348273b5,2100-01-03,2025-02-11,Card OK,White Lotus,a32859c28e
+7b0057a344,2100-01-03,2024-12-24,Card OK,White Lotus,be9d251adb
+76ade43d6a,2024-11-15,2024-11-15,Card Blocked,Breaking Bad,e7ac664a69
+e20d0fa98e,2024-12-20,2024-11-27,Card OK,White Lotus,d9928cebbd
+5e9726d1c3,2100-01-03,2025-01-08,Card Closed,Hogwarts,81314e3e17
+63a9997c87,2024-11-06,2024-11-04,Card Blocked,Hogwarts,40adef5598
+050afcc8fc,2025-01-18,2025-01-17,Card Blocked,Hogwarts,c19d0b3074
+5472b6dbb6,2025-01-20,2025-01-05,Card No Renewal,Back to the Future,d9928cebbd
+46971e146d,2024-12-26,2024-11-18,Card Blocked,Hogwarts,f6b78b2250
+6b0b7fee3f,2024-11-22,2024-11-22,Card OK,White Lotus,c528bf867d
+4bba78eb8e,2024-12-23,2024-12-21,Card No Renewal,Star Wars,00c99a8d11
+ccfce3f2c6,2024-12-31,2024-12-31,Card Blocked,Breaking Bad,ba19ad0b31
+2ad69a121a,2024-11-29,2024-11-28,Card OK,White Lotus,680e20451d
+d5ceb9df83,2024-12-24,2024-12-14,Card OK,Star Wars,d05d568c21
+a60e57da18,2025-01-02,2024-12-24,Card OK,Breaking Bad,82679f0cf3
+89e6f7fd97,2024-11-25,2024-11-04,Card OK,Friends,7764e7ef14
+0dbd29aa50,2025-01-27,2025-01-11,Card Blocked,Modern Family,f6b78b2250
+c825baa23d,2024-12-20,2024-12-13,Card OK,Modern Family,e36712cc9b
+226004759c,2025-01-14,2025-01-10,Card OK,Modern Family,0f1a1b7af0
+c7c823bbb3,2024-11-14,2024-11-07,Card OK,Game of Thrones,19e7161faf
+759fe9a609,2024-12-25,2024-12-24,Card OK,Back to the Future,b5419c25f9
+76792d1e47,2100-01-03,2024-12-21,Card No Renewal,Lord of the Rings,26b8390ed9
+6d2b2ecc3e,2024-12-05,2024-12-05,Card OK,Modern Family,e58103c65c
+76ade43d6a,2025-01-29,2025-01-29,Card Blocked,Breaking Bad,e7ac664a69
+d47a8ad1cc,2024-12-31,2024-12-31,Card OK,Back to the Future,7a32dd2bf0
+3f8c0892be,2024-12-22,2024-12-21,Card No Renewal,Back to the Future,60fd8f1993
+0fc71eca25,2024-12-20,2024-11-27,Card OK,Modern Family,a75b5145ea
+be98281660,2100-01-03,2024-12-21,Card No Renewal,Back to the Future,c7391abdd2
+9ab6436270,2024-12-12,2024-12-12,Card OK,Lord of the Rings,1387ba9139
+51e4e596dd,2024-12-23,2024-12-21,Card No Renewal,White Lotus,2e660e637d
+c825baa23d,2024-11-16,2024-11-06,Card OK,Modern Family,e36712cc9b
+050afcc8fc,2100-01-03,2025-02-10,Card Blocked,Hogwarts,c19d0b3074
+197a486ae2,2024-11-10,2024-11-08,Card Blocked,Hogwarts,df8818db30
+db78b8c83e,2100-01-03,2025-01-05,Card OK,Friends,94227ef72f
+6d2b2ecc3e,2024-12-20,2024-12-19,Card OK,Modern Family,e58103c65c
+bedeb84746,2100-01-03,2025-01-25,Card Closed Due To Fraud,Game of Thrones,8f0b2d98ba
+b608ff1c4e,2024-12-23,2024-12-21,Card No Renewal,White Lotus,1ffcf2955f
+63d50bd63c,2024-12-07,2024-11-30,Card OK,Lord of the Rings,d14a9df8b9
+73f77b647c,2025-01-03,2024-12-31,Card Blocked,Friends,3a68589903
+0803d4799a,2024-11-23,2024-11-23,Card OK,Game of Thrones,2b02e33c9f
+3c413362b9,2025-01-01,2024-12-14,Card Blocked,The Office,e2654bcdb5
+e20d0fa98e,2024-12-29,2024-12-24,Card OK,White Lotus,d9928cebbd
+3041910888,2024-11-15,2024-11-12,Card No Renewal,Modern Family,00bccef695
+226004759c,2025-01-19,2025-01-18,Card OK,Modern Family,0f1a1b7af0
+76792d1e47,2024-11-29,2024-11-28,Card OK,Lord of the Rings,26b8390ed9
+89e6f7fd97,2024-11-03,2024-11-03,Card OK,Friends,7764e7ef14
+df348273b5,2025-02-02,2025-02-02,Card OK,White Lotus,a32859c28e
+13b2c686f2,2024-12-20,2024-12-19,Card OK,White Lotus,ac87b05383
+73f77b647c,2024-12-20,2024-12-17,Card OK,Friends,3a68589903
+f34f4c4b9d,2025-01-17,2025-01-16,Card Blocked,Friends,2e5ddad1a4
+7b0057a344,2024-12-23,2024-12-21,Card No Renewal,White Lotus,be9d251adb
+322686c91d,2100-01-03,2024-12-24,Card OK,Hogwarts,00bccef695
+6defff5c19,2100-01-03,2025-02-16,Card OK,Hogwarts,cf629af9be
+9ccfd53fb2,2024-12-27,2024-12-22,Card No Renewal,Modern Family,7a32dd2bf0
+45812b1dce,2024-12-14,2024-12-09,Card OK,The Office,f15a4c64d5
+dda8cd8543,2100-01-03,2024-12-24,Card OK,Game of Thrones,02e797c1b7
+d1ee26196c,2025-01-15,2024-12-24,Card OK,Game of Thrones,26b8390ed9
+5ed2ff0113,2025-01-17,2025-01-16,Card No Renewal,Friends,0f1a1b7af0
+89e6f7fd97,2025-01-03,2025-01-03,Card Closed,Friends,7764e7ef14
+2ad69a121a,2024-12-18,2024-11-30,Card OK,White Lotus,680e20451d
+e65d3f481c,2024-12-31,2024-12-31,Card No Renewal,Back to the Future,7a32dd2bf0
+46971e146d,2025-01-08,2025-01-08,Card OK,Hogwarts,f6b78b2250
+d62cf0f11f,2100-01-03,2024-12-21,Card No Renewal,Breaking Bad,680e20451d
+5ed2ff0113,2100-01-03,2025-02-21,Card No Renewal,Friends,0f1a1b7af0
+7406094968,2024-12-20,2024-12-19,Card OK,Breaking Bad,d136b709ef
+a0185bc6a6,2024-12-20,2024-12-19,Card OK,Modern Family,99ecf8930b
+0803d4799a,2024-11-24,2024-11-24,Card OK,Game of Thrones,2b02e33c9f
+7b0057a344,2024-11-14,2024-11-10,Card OK,White Lotus,be9d251adb
+bedeb84746,2025-01-23,2025-01-21,Card OK,Game of Thrones,8f0b2d98ba
+cb378c9a86,2024-12-04,2024-11-30,Card OK,Breaking Bad,b45f21ea3d
+d62cf0f11f,2024-11-29,2024-11-28,Card OK,Breaking Bad,680e20451d
+d5ceb9df83,2024-12-03,2024-11-08,Card OK,Star Wars,d05d568c21
+73f77b647c,2024-12-16,2024-12-14,Card Blocked,Friends,3a68589903
+9d2e487455,2024-12-27,2024-11-20,Card Blocked,Modern Family,6f8844b654
+dec5ab5ac4,2024-12-23,2024-12-21,Card No Renewal,White Lotus,d88ebcfdae
+dda8cd8543,2024-12-23,2024-12-21,Card No Renewal,Game of Thrones,02e797c1b7
+c46f6dc06d,2024-11-22,2024-11-22,Card OK,The Office,e64d362ad9
+dc6de15ab7,2024-12-23,2024-12-21,Card No Renewal,Hogwarts,724b411fec
+5472b6dbb6,2025-01-25,2025-01-21,Card No Renewal,Back to the Future,d9928cebbd
+bb671c4b31,2024-12-23,2024-12-21,Card No Renewal,Breaking Bad,e58103c65c
+646e40308c,2024-12-18,2024-11-24,Card OK,Hogwarts,b0334b0333
+7b0057a344,2024-11-09,2024-11-05,Card OK,White Lotus,be9d251adb
+8b3bb196da,2024-12-23,2024-12-21,Card No Renewal,Game of Thrones,ce3b66c461
+050afcc8fc,2024-12-13,2024-12-08,Card Blocked,Hogwarts,c19d0b3074
+8509ebbd74,2024-12-16,2024-12-15,Card Blocked,Lord of the Rings,8a98cfb395
+d7b070b052,2025-01-09,2024-12-25,Card OK,Hogwarts,d05d568c21
+211662d0ac,2025-01-14,2024-12-21,Card No Renewal,Modern Family,e04828a825
+e0bb6952a8,2024-11-27,2024-11-27,Card OK,White Lotus,de31c6b9c9
+050afcc8fc,2025-01-25,2025-01-23,Card OK,Hogwarts,c19d0b3074
+9ab6436270,2024-12-11,2024-12-06,Card Blocked,Lord of the Rings,1387ba9139
+98490993cd,2100-01-03,2025-01-04,Card OK,White Lotus,6caf2dfa73
+3041910888,2024-11-11,2024-11-09,Card No Renewal,Modern Family,00bccef695
+7b0057a344,2024-11-17,2024-11-15,Card OK,White Lotus,be9d251adb
+d5ceb9df83,2024-12-04,2024-12-04,Suspected Fraud,Star Wars,d05d568c21
+d47a8ad1cc,2024-12-21,2024-12-21,Card No Renewal,Back to the Future,7a32dd2bf0
+db78b8c83e,2024-12-15,2024-12-09,Card OK,Friends,94227ef72f
+2d271cef7e,2025-01-11,2024-12-11,Card OK,Back to the Future,7642ff66ab
+c825baa23d,2024-11-29,2024-11-17,Card OK,Modern Family,e36712cc9b
+e362343673,2100-01-03,2024-12-27,Card OK,Breaking Bad,728de95698
+8b70ec68a3,2024-11-21,2024-11-16,Card OK,Game of Thrones,a5bde9a34f
+45812b1dce,2024-12-15,2024-12-15,Card OK,The Office,f15a4c64d5
+8509ebbd74,2024-12-06,2024-11-23,Card OK,Lord of the Rings,8a98cfb395
+e8aa68cd07,2025-01-19,2025-01-19,Card OK,Back to the Future,88b97fad18
+db78b8c83e,2024-12-18,2024-12-16,Card OK,Friends,94227ef72f
+e8aa68cd07,2024-12-23,2024-12-21,Card No Renewal,Back to the Future,88b97fad18
+129b7371cf,2025-01-14,2024-12-24,Card OK,The Office,e04828a825
+322686c91d,2024-12-18,2024-11-18,Card OK,Hogwarts,00bccef695
+0dbd29aa50,2025-01-04,2024-11-22,Card Blocked,Modern Family,f6b78b2250
+3d734f6715,2025-01-06,2024-12-19,Card No Renewal,Hogwarts,64b1c20848
+5e9726d1c3,2024-11-26,2024-11-26,Card No Renewal,Hogwarts,81314e3e17
+cda96c5be0,2100-01-03,2024-12-24,Card OK,White Lotus,c528bf867d
+a96e8f9106,2100-01-03,2024-12-24,Card OK,Back to the Future,6cec320f20
+5e9726d1c3,2024-11-19,2024-11-18,Card No Renewal,Hogwarts,81314e3e17
+b58dd6b051,2025-02-02,2025-02-01,Card No Renewal,Game of Thrones,ce3b66c461
+3d734f6715,2024-12-16,2024-12-14,Card Blocked,Hogwarts,64b1c20848
+5e9726d1c3,2024-11-24,2024-11-23,Card No Renewal,Hogwarts,81314e3e17
+63d50bd63c,2024-12-10,2024-12-10,Card OK,Lord of the Rings,d14a9df8b9
+055dc341e6,2024-12-18,2024-12-16,Card OK,The Office,f15a4c64d5
+d47a8ad1cc,2025-01-09,2025-01-01,Card OK,Back to the Future,7a32dd2bf0
+c3b2f8e698,2024-12-20,2024-12-19,Card OK,Breaking Bad,39636f5d64
+322686c91d,2024-11-15,2024-11-09,Card OK,Hogwarts,00bccef695
+0aa817f5fe,2100-01-03,2025-01-27,Card Closed,Game of Thrones,513aac1ad3
+226004759c,2025-01-17,2025-01-16,Card OK,Modern Family,0f1a1b7af0
+5e9726d1c3,2024-11-15,2024-11-13,Card No Renewal,Hogwarts,81314e3e17
+050afcc8fc,2025-01-16,2025-01-07,Card OK,Hogwarts,c19d0b3074
+b9f46c0ac5,2024-11-16,2024-11-15,Card OK,Game of Thrones,1507ae72f4
+8f932332e9,2024-12-23,2024-12-21,Card No Renewal,Modern Family,99ecf8930b
+d2123c66ff,2100-01-03,2025-01-08,Card OK,The Office,e5d0784135
+13b2c686f2,2100-01-03,2024-12-26,Card OK,White Lotus,ac87b05383
+8b3bb196da,2024-12-20,2024-11-26,Card OK,Game of Thrones,ce3b66c461
+76ade43d6a,2024-11-30,2024-11-19,Card OK,Breaking Bad,e7ac664a69
+3041910888,2024-11-08,2024-11-05,Card No Renewal,Modern Family,00bccef695
+d2123c66ff,2024-12-20,2024-12-02,Card OK,The Office,e5d0784135
+76792d1e47,2024-11-16,2024-11-16,Card OK,Lord of the Rings,26b8390ed9
+13c2b03bf9,2024-11-06,2024-11-06,Card OK,Game of Thrones,19e7161faf
+0aa817f5fe,2024-12-25,2024-12-24,Card OK,Game of Thrones,513aac1ad3
+759fe9a609,2100-01-03,2025-02-22,Card OK,Back to the Future,b5419c25f9
+322686c91d,2024-12-20,2024-12-19,Card OK,Hogwarts,00bccef695
+6a285b6d43,2024-12-20,2024-12-19,Card OK,Hogwarts,724b411fec
+4bba78eb8e,2024-12-18,2024-12-07,Card OK,Star Wars,00c99a8d11
+3c413362b9,2025-01-22,2025-01-02,Card OK,The Office,e2654bcdb5
+dc6de15ab7,2100-01-03,2024-12-24,Card OK,Hogwarts,724b411fec
+646e40308c,2024-11-23,2024-11-15,Card OK,Hogwarts,b0334b0333
+8509ebbd74,2024-12-14,2024-12-08,Card OK,Lord of the Rings,8a98cfb395
+63a9997c87,2100-01-03,2024-12-15,Card OK,Hogwarts,40adef5598
+ccfce3f2c6,2024-11-26,2024-11-11,Card Blocked,Breaking Bad,ba19ad0b31
+76792d1e47,2024-11-27,2024-11-17,Card OK,Lord of the Rings,26b8390ed9
+cda96c5be0,2024-12-13,2024-12-08,Card OK,White Lotus,c528bf867d
+45812b1dce,2024-12-08,2024-12-08,Card OK,The Office,f15a4c64d5
+e0bb6952a8,2024-11-26,2024-11-04,Card OK,White Lotus,de31c6b9c9
+3c413362b9,2024-12-12,2024-12-02,Card Blocked,The Office,e2654bcdb5
+d5ceb9df83,2024-12-13,2024-12-07,Suspected Fraud,Star Wars,d05d568c21
+6b0b7fee3f,2024-12-20,2024-12-19,Card OK,White Lotus,c528bf867d
+2d271cef7e,2025-01-15,2025-01-12,Card Blocked,Back to the Future,7642ff66ab
+5e9726d1c3,2024-11-22,2024-11-20,Card No Renewal,Hogwarts,81314e3e17
+2d271cef7e,2024-12-06,2024-12-05,Card OK,Back to the Future,7642ff66ab
+63d50bd63c,2024-12-09,2024-12-08,Card OK,Lord of the Rings,d14a9df8b9
+46971e146d,2025-01-20,2025-01-20,Card OK,Hogwarts,f6b78b2250
+76792d1e47,2024-12-15,2024-12-04,Card OK,Lord of the Rings,26b8390ed9
+03170865d0,2100-01-03,2025-02-05,Card OK,Modern Family,5e4a728423
+0dbd29aa50,2025-01-07,2025-01-05,Card OK,Modern Family,f6b78b2250
+f34f4c4b9d,2024-11-16,2024-11-16,Card OK,Friends,2e5ddad1a4
+5ed2ff0113,2025-01-15,2025-01-15,Card No Renewal,Friends,0f1a1b7af0
+8f932332e9,2024-11-22,2024-11-20,Card OK,Modern Family,99ecf8930b
+d5ceb9df83,2100-01-03,2025-01-10,Card Blocked,Star Wars,d05d568c21
+322686c91d,2024-11-17,2024-11-16,Card OK,Hogwarts,00bccef695
+76ade43d6a,2024-11-16,2024-11-16,Card OK,Breaking Bad,e7ac664a69
+c859e3878c,2024-11-20,2024-11-20,Card OK,White Lotus,76da20da14
+d2123c66ff,2024-12-23,2024-12-21,Card No Renewal,The Office,e5d0784135
+76792d1e47,2024-12-03,2024-11-30,Card OK,Lord of the Rings,26b8390ed9
+dda8cd8543,2024-11-13,2024-11-11,Card OK,Game of Thrones,02e797c1b7
+055dc341e6,2024-12-20,2024-12-19,Card OK,The Office,f15a4c64d5
+2ad69a121a,2024-12-23,2024-12-21,Card No Renewal,White Lotus,680e20451d
+2ad69a121a,2024-11-24,2024-11-22,Card OK,White Lotus,680e20451d
+bafa3a6375,2024-12-20,2024-12-17,Card OK,White Lotus,b2bcd71144
+3c2206ff9b,2024-12-20,2024-12-19,Card OK,Breaking Bad,82679f0cf3
+6d2b2ecc3e,2024-12-04,2024-12-04,Card OK,Modern Family,e58103c65c
+cda96c5be0,2024-12-17,2024-12-14,Card OK,White Lotus,c528bf867d
+c3b2f8e698,2024-12-06,2024-12-06,Card OK,Breaking Bad,39636f5d64
+e0bb6952a8,2024-12-18,2024-11-28,Card OK,White Lotus,de31c6b9c9
+edd5b288d8,2024-12-23,2024-12-21,Card No Renewal,The Office,8dc0f4f5e8
+73f77b647c,2100-01-03,2025-01-12,Card Blocked,Friends,3a68589903
+a6e51466b0,2024-12-14,2024-12-14,Card Blocked,Star Wars,204c34a7ec
+0dbd29aa50,2025-01-10,2025-01-10,Card OK,Modern Family,f6b78b2250
+8f932332e9,2024-12-18,2024-11-24,Card OK,Modern Family,99ecf8930b
+5472b6dbb6,2024-12-21,2024-12-21,Card No Renewal,Back to the Future,d9928cebbd
+73f77b647c,2024-12-23,2024-12-21,Card No Renewal,Friends,3a68589903
+211662d0ac,2024-11-09,2024-11-09,Card OK,Modern Family,e04828a825
+d71480e9ed,2024-11-07,2024-11-07,Card OK,Game of Thrones,38782b001f
+0fc71eca25,2024-11-26,2024-11-23,Card OK,Modern Family,a75b5145ea
+9ccfd53fb2,2024-12-28,2024-12-28,Card No Renewal,Modern Family,7a32dd2bf0
+9ccfd53fb2,2100-01-03,2025-01-10,Card No Renewal,Modern Family,7a32dd2bf0
+c46f6dc06d,2024-12-18,2024-11-23,Card OK,The Office,e64d362ad9
+050afcc8fc,2024-12-15,2024-12-15,Card Blocked,Hogwarts,c19d0b3074
+6b0b7fee3f,2024-12-13,2024-12-08,Card OK,White Lotus,c528bf867d
+bb671c4b31,2024-12-20,2024-12-19,Card OK,Breaking Bad,e58103c65c
+89e6f7fd97,2024-11-28,2024-11-26,Card OK,Friends,7764e7ef14
+226004759c,2025-02-01,2025-01-25,Card OK,Modern Family,0f1a1b7af0
+050afcc8fc,2025-01-06,2025-01-02,Card Blocked,Hogwarts,c19d0b3074
+db78b8c83e,2025-01-04,2024-12-24,Card OK,Friends,94227ef72f
+6a052a6005,2025-01-06,2024-12-24,Card OK,Modern Family,041963483c
+df348273b5,2024-12-20,2024-12-19,Card OK,White Lotus,a32859c28e
+b608ff1c4e,2024-11-27,2024-11-24,Card OK,White Lotus,1ffcf2955f
+d5ceb9df83,2024-12-28,2024-12-25,Card Blocked,Star Wars,d05d568c21
+e8aa68cd07,2025-01-18,2025-01-13,Card OK,Back to the Future,88b97fad18
+9844aa3e67,2100-01-03,2024-12-25,Card OK,Back to the Future,e64d362ad9
+c3b2f8e698,2100-01-03,2025-01-16,Card OK,Breaking Bad,39636f5d64
+c7c823bbb3,2024-12-20,2024-12-19,Card OK,Game of Thrones,19e7161faf
+e20d0fa98e,2024-11-11,2024-11-09,Card OK,White Lotus,d9928cebbd
+cda96c5be0,2024-12-18,2024-12-18,Card OK,White Lotus,c528bf867d
+13c2b03bf9,2024-11-26,2024-11-15,Card OK,Game of Thrones,19e7161faf
+51e4e596dd,2024-12-04,2024-12-03,Card OK,White Lotus,2e660e637d
+dec5ab5ac4,2024-12-04,2024-11-29,Card OK,White Lotus,d88ebcfdae
+a6e51466b0,2024-12-01,2024-11-30,Card Blocked,Star Wars,204c34a7ec
+c3b2f8e698,2024-12-23,2024-12-21,Card No Renewal,Breaking Bad,39636f5d64
+9844aa3e67,2024-12-18,2024-11-22,Card OK,Back to the Future,e64d362ad9
+bedeb84746,2025-01-24,2025-01-24,Card Blocked,Game of Thrones,8f0b2d98ba
+e362343673,2024-12-20,2024-12-19,Card OK,Breaking Bad,728de95698
+129b7371cf,2024-12-18,2024-11-10,Card OK,The Office,e04828a825
+bafa3a6375,2025-01-10,2024-12-24,Card OK,White Lotus,b2bcd71144
+3c413362b9,2024-11-09,2024-11-09,Card OK,The Office,e2654bcdb5
+98490993cd,2024-11-29,2024-11-29,Card OK,White Lotus,6caf2dfa73
+5ed2ff0113,2025-01-19,2025-01-18,Card No Renewal,Friends,0f1a1b7af0
+0fc71eca25,2100-01-03,2024-12-21,Card No Renewal,Modern Family,a75b5145ea
+3f8c0892be,2024-12-23,2024-12-23,Card No Renewal,Back to the Future,60fd8f1993
+8b3bb196da,2024-11-20,2024-11-18,Card OK,Game of Thrones,ce3b66c461
+6defff5c19,2025-01-16,2025-01-07,Card OK,Hogwarts,cf629af9be
+646e40308c,2100-01-03,2024-12-24,Card OK,Hogwarts,b0334b0333
+c7c823bbb3,2024-11-26,2024-11-15,Card OK,Game of Thrones,19e7161faf
+6a052a6005,2024-11-30,2024-11-12,Card OK,Modern Family,041963483c
+c7c823bbb3,2024-12-23,2024-12-21,Card No Renewal,Game of Thrones,19e7161faf
+129b7371cf,2024-12-23,2024-12-21,Card No Renewal,The Office,e04828a825
+8b70ec68a3,2024-12-11,2024-12-07,Card Blocked,Game of Thrones,a5bde9a34f
+5ed2ff0113,2025-02-01,2025-01-25,Card No Renewal,Friends,0f1a1b7af0
+6abc3c7f30,2024-12-20,2024-12-07,Card OK,Lord of the Rings,b2786938a6
+c859e3878c,2024-12-11,2024-11-21,Card OK,White Lotus,76da20da14
+055dc341e6,2024-12-15,2024-12-15,Card OK,The Office,f15a4c64d5
+6abc3c7f30,2024-12-03,2024-11-18,Card OK,Lord of the Rings,b2786938a6
+c825baa23d,2024-12-12,2024-12-11,Card OK,Modern Family,e36712cc9b
+c825baa23d,2025-01-16,2025-01-05,Card OK,Modern Family,e36712cc9b
+b608ff1c4e,2024-12-20,2024-11-30,Card OK,White Lotus,1ffcf2955f
+e362343673,2024-12-23,2024-12-21,Card No Renewal,Breaking Bad,728de95698
+63d50bd63c,2100-01-03,2024-12-24,Card OK,Lord of the Rings,d14a9df8b9
+9ccfd53fb2,2024-12-30,2024-12-30,Card No Renewal,Modern Family,7a32dd2bf0
+5ed2ff0113,2024-12-19,2024-12-17,Card No Renewal,Friends,0f1a1b7af0
+b9f46c0ac5,2100-01-03,2025-01-17,Card OK,Game of Thrones,1507ae72f4
+9844aa3e67,2024-12-20,2024-12-19,Card OK,Back to the Future,e64d362ad9
+df348273b5,2025-02-01,2025-01-16,Card OK,White Lotus,a32859c28e
+98490993cd,2025-01-03,2025-01-03,Card Blocked,White Lotus,6caf2dfa73
+cda96c5be0,2024-12-07,2024-11-28,Card OK,White Lotus,c528bf867d
+3c2206ff9b,2025-01-02,2024-12-21,Card No Renewal,Breaking Bad,82679f0cf3
+e113a6ff0f,2100-01-03,2025-01-11,Card Blocked,The Office,587b659087
+edd5b288d8,2100-01-03,2024-12-24,Card OK,The Office,8dc0f4f5e8
+5e9726d1c3,2024-11-25,2024-11-25,Card No Renewal,Hogwarts,81314e3e17
+050afcc8fc,2024-12-23,2024-12-22,Card No Renewal,Hogwarts,c19d0b3074
+8b70ec68a3,2024-11-25,2024-11-22,Card Blocked,Game of Thrones,a5bde9a34f
+edd5b288d8,2024-12-20,2024-12-19,Card OK,The Office,8dc0f4f5e8
+197a486ae2,2025-01-02,2024-12-31,Card Blocked,Hogwarts,df8818db30
+3c2206ff9b,2024-12-16,2024-11-29,Card OK,Breaking Bad,82679f0cf3
+a60e57da18,2024-12-23,2024-12-21,Card No Renewal,Breaking Bad,82679f0cf3
+e0bb6952a8,2024-12-20,2024-12-19,Card OK,White Lotus,de31c6b9c9
+3c413362b9,2024-12-13,2024-12-13,Card OK,The Office,e2654bcdb5
+e113a6ff0f,2024-11-27,2024-11-25,Card OK,The Office,587b659087
+e113a6ff0f,2024-12-18,2024-11-28,Card OK,The Office,587b659087
+a0185bc6a6,2024-11-22,2024-11-21,Card OK,Modern Family,99ecf8930b
+b58dd6b051,2024-11-24,2024-11-22,Card OK,Game of Thrones,ce3b66c461
+c825baa23d,2025-01-04,2025-01-04,Card OK,Modern Family,e36712cc9b
+0aa817f5fe,2024-12-18,2024-12-01,Card OK,Game of Thrones,513aac1ad3
+319532a445,2025-01-29,2025-01-22,Card OK,Breaking Bad,ebf4de9e54
+c859e3878c,2025-01-15,2025-01-15,Card Closed,White Lotus,76da20da14
+778c2de8b3,2024-12-23,2024-12-21,Card No Renewal,Modern Family,136bcb2ffd
+c7c823bbb3,2024-11-06,2024-11-06,Card OK,Game of Thrones,19e7161faf
+d47a8ad1cc,2024-12-29,2024-12-29,Card OK,Back to the Future,7a32dd2bf0
+8b3bb196da,2024-11-21,2024-11-21,Card OK,Game of Thrones,ce3b66c461
+ccfce3f2c6,2024-12-23,2024-12-21,Card No Renewal,Breaking Bad,ba19ad0b31
+3f8c0892be,2100-01-03,2025-01-18,Card OK,Back to the Future,60fd8f1993
+6a052a6005,2025-01-31,2025-01-07,Card Blocked,Modern Family,041963483c
+63d50bd63c,2024-12-23,2024-12-21,Card No Renewal,Lord of the Rings,d14a9df8b9
+6abc3c7f30,2024-12-06,2024-12-05,Card OK,Lord of the Rings,b2786938a6
+d7b070b052,2024-11-12,2024-11-07,Card Blocked,Hogwarts,d05d568c21
+3f8c0892be,2024-12-20,2024-11-23,Card OK,Back to the Future,60fd8f1993
+226004759c,2025-01-01,2024-12-28,Card OK,Modern Family,0f1a1b7af0
+6a052a6005,2024-12-23,2024-12-21,Card No Renewal,Modern Family,041963483c
+46971e146d,2100-01-03,2025-01-21,Card Blocked,Hogwarts,f6b78b2250
+2d271cef7e,2025-01-18,2025-01-16,Card OK,Back to the Future,7642ff66ab
+8b3bb196da,2100-01-03,2025-02-03,Card OK,Game of Thrones,ce3b66c461
+51e4e596dd,2024-12-02,2024-12-02,Card OK,White Lotus,2e660e637d
+c3b2f8e698,2025-01-15,2024-12-24,Card OK,Breaking Bad,39636f5d64
+226004759c,2024-12-23,2024-12-21,Card No Renewal,Modern Family,0f1a1b7af0
+98490993cd,2024-12-01,2024-12-01,Card Blocked,White Lotus,6caf2dfa73
+d5ceb9df83,2025-01-09,2024-12-29,Card OK,Star Wars,d05d568c21
+5e9726d1c3,2025-01-07,2024-12-07,Card Closed,Hogwarts,81314e3e17
+0803d4799a,2024-12-18,2024-11-25,Card OK,Game of Thrones,2b02e33c9f
+d65cbb036c,2024-12-20,2024-12-19,Card OK,White Lotus,f649458d87
+759fe9a609,2024-12-20,2024-12-15,Card OK,Back to the Future,b5419c25f9
+8509ebbd74,2024-12-07,2024-12-07,Card Blocked,Lord of the Rings,8a98cfb395
+5e9726d1c3,2024-12-06,2024-12-04,Card No Renewal,Hogwarts,81314e3e17
+df348273b5,2024-12-18,2024-12-01,Card OK,White Lotus,a32859c28e
+3c2206ff9b,2024-11-22,2024-11-22,Card OK,Breaking Bad,82679f0cf3
+d1ee26196c,2024-11-29,2024-11-28,Card OK,Game of Thrones,26b8390ed9
+e362343673,2024-12-26,2024-12-24,Card OK,Breaking Bad,728de95698
+d62cf0f11f,2024-11-24,2024-11-22,Card OK,Breaking Bad,680e20451d
+d7b070b052,2024-12-03,2024-11-13,Card OK,Hogwarts,d05d568c21
+46971e146d,2024-12-28,2024-12-27,Card OK,Hogwarts,f6b78b2250
+226004759c,2024-12-20,2024-12-20,Card OK,Modern Family,0f1a1b7af0
+197a486ae2,2024-12-06,2024-11-11,Card OK,Hogwarts,df8818db30
+0dbd29aa50,2025-01-09,2025-01-08,Card Blocked,Modern Family,f6b78b2250
+be98281660,2024-12-18,2024-12-08,Card OK,Back to the Future,c7391abdd2
+d5ceb9df83,2024-12-06,2024-12-05,Card OK,Star Wars,d05d568c21
+d71480e9ed,2024-12-20,2024-12-19,Card OK,Game of Thrones,38782b001f
+9844aa3e67,2024-11-21,2024-11-21,Card OK,Back to the Future,e64d362ad9
+a60e57da18,2024-11-28,2024-11-28,Card OK,Breaking Bad,82679f0cf3
+050afcc8fc,2025-01-29,2025-01-26,Card Blocked,Hogwarts,c19d0b3074
+778c2de8b3,2025-01-09,2024-12-24,Card OK,Modern Family,136bcb2ffd
+6abc3c7f30,2100-01-03,2024-12-21,Card No Renewal,Lord of the Rings,b2786938a6
+0dbd29aa50,2025-01-28,2025-01-28,Card OK,Modern Family,f6b78b2250
+e65d3f481c,2024-12-30,2024-12-30,Card No Renewal,Back to the Future,7a32dd2bf0
+46971e146d,2025-01-19,2025-01-09,Card Blocked,Hogwarts,f6b78b2250
+c825baa23d,2025-02-01,2025-01-30,Card OK,Modern Family,e36712cc9b
+51e4e596dd,2024-12-20,2024-12-07,Card OK,White Lotus,2e660e637d
+050afcc8fc,2024-12-17,2024-12-16,Card OK,Hogwarts,c19d0b3074
+4bba78eb8e,2024-11-05,2024-11-05,Card OK,Star Wars,00c99a8d11
+9ab6436270,2100-01-03,2024-12-19,Card Blocked,Lord of the Rings,1387ba9139
+a96e8f9106,2024-11-15,2024-11-11,Card OK,Back to the Future,6cec320f20
