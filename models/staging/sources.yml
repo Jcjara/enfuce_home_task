@@ -1,0 +1,39 @@
+version: 2
+
+sources:
+  - name: raw
+    description: Raw source data for invoice calculations
+    schema: dbt_juan
+
+    tables:
+      - name: cards
+        description: Raw card status history per customer and account.
+        columns:
+          - name: CARD_ID
+            tests:
+              - not_null
+          - name: ACCOUNT_ID
+            tests:
+              - not_null
+          - name: CUSTOMER
+            tests:
+              - not_null
+          - name: CARD_STATUS
+            tests:
+              - not_null
+          - name: START_DATE
+            tests:
+              - not_null
+
+      - name: accounts
+        description: Raw account status history.
+        columns:
+          - name: ACCOUNT_ID
+            tests:
+              - not_null
+          - name: ACCOUNT_STATUS
+            tests:
+              - not_null
+          - name: START_DATE
+            tests:
+              - not_null
