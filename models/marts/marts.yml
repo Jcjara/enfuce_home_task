@@ -1,0 +1,61 @@
+version: 2
+
+models:
+  - name: fct_monthly_customer_active_cards
+    description: Monthly invoicing metric showing the number of billable active cards per customer.
+
+    columns:
+      - name: customer_month_key
+        description: Unique key for the customer and invoice month grain.
+        tests:
+          - not_null
+          - unique
+
+      - name: customer_id
+        description: Customer identifier.
+        tests:
+          - not_null
+
+      - name: invoice_month
+        description: First day of the invoice month.
+        tests:
+          - not_null
+
+      - name: active_cards_count
+        description: Number of active cards billable for the customer in the invoice month.
+        tests:
+          - not_null
+
+      - name: billable_active_cards_count
+        description: Number of active cards billable for the customer in the invoice month.
+        tests:
+          - not_null
+
+      - name: excluded_due_to_closed_account_count
+        description: Number of active cards billable for the customer in the invoice month.
+        tests:
+          - not_null
+
+  - name: dq_active_cards_on_closed_accounts
+    description: Data quality model exposing active cards linked to closed accounts, which should be excluded from invoicing but monitored for operational follow-up.
+
+    columns:
+      - name: card_month_key
+        tests:
+          - not_null
+
+      - name: card_id
+        tests:
+          - not_null
+
+      - name: customer_id
+        tests:
+          - not_null
+
+      - name: account_id
+        tests:
+          - not_null
+
+      - name: invoice_month
+        tests:
+          - not_null

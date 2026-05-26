@@ -1,0 +1,59 @@
+version: 2
+
+models:
+  - name: stg_cards
+    description: Standardized card status history.
+
+    columns:
+      - name: card_id
+        description: Unique identifier of the card.
+        tests:
+          - not_null
+
+      - name: account_id
+        description: Linked account identifier.
+        tests:
+          - not_null
+
+      - name: customer_id
+        description: Customer identifier owning the card.
+        tests:
+          - not_null
+
+      - name: card_status
+        description: Standardized card lifecycle status.
+        tests:
+          - not_null
+          - accepted_values:
+              arguments:
+                values: ['CARD OK', 'CARD NO RENEWAL', 'CARD BLOCKED', 'CARD CLOSED', 'SUSPECTED FRAUD', 'CARD CLOSED DUE TO FRAUD']
+
+      - name: card_start_date
+        description: Start date of the card status validity period.
+        tests:
+          - not_null
+
+      - name: card_end_date
+        description: End date of the card status validity period.
+
+  - name: stg_accounts
+    description: Standardized account status history.
+
+    columns:
+      - name: account_id
+        description: Unique account identifier.
+        tests:
+          - not_null
+
+      - name: account_status
+        description: Standardized account lifecycle status.
+        tests:
+          - not_null
+
+      - name: account_start_date
+        description: Start date of the account status validity period.
+        tests:
+          - not_null
+
+      - name: account_end_date
+        description: End date of the account status validity period.

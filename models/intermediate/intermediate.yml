@@ -1,0 +1,48 @@
+version: 2
+
+models:
+  - name: int_month_spine
+    description: Monthly spine used to expand validity periods into invoice months.
+
+    columns:
+      - name: month_start_date
+        tests:
+          - not_null
+          - unique
+
+  - name: int_billable_cards_monthly
+    description: Card-level monthly invoicing logic including account status validation.
+
+    columns:
+      - name: card_month_key
+        tests:
+          - unique
+          - not_null
+
+      - name: card_id
+        tests:
+          - not_null
+
+      - name: customer_id
+        tests:
+          - not_null
+
+      - name: account_id
+        tests:
+          - not_null
+
+      - name: month_start_date
+        tests:
+          - not_null
+
+      - name: is_card_active
+        tests:
+          - not_null
+
+      - name: is_account_closed
+        tests:
+          - not_null
+
+      - name: is_billable_card
+        tests:
+          - not_null
