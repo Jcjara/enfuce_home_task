@@ -5,7 +5,7 @@ models:
     description: Monthly spine used to expand validity periods into invoice months.
 
     columns:
-      - name: invoice_month
+      - name: month_start_date
         tests:
           - not_null
           - unique
@@ -31,7 +31,7 @@ models:
         tests:
           - not_null
 
-      - name: invoice_month
+      - name: month_start_date
         tests:
           - not_null
 

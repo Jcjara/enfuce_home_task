@@ -35,7 +35,7 @@ numbers as (
 month_spine as (
 
     select
-        dateadd(month, n.month_offset, d.min_month) as invoice_month
+        dateadd(month, n.month_offset, d.min_month) as month_start_date
     from date_bounds d
     join numbers n
         on n.month_offset <= datediff(month, d.min_month, d.max_month)
@@ -43,7 +43,7 @@ month_spine as (
 )
 
 select
-    invoice_month,
-    last_day(invoice_month) as invoice_month_end
+    month_start_date,
+    last_day(month_start_date) as month_end_date
 from month_spine
-order by invoice_month
+order by month_start_date
